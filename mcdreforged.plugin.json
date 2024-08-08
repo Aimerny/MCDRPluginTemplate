@@ -13,7 +13,7 @@
   "dependencies": {
     "mcdreforged": ">=2.12.0"
   },
-  "entrypoint": "mirror_archive_manager.entrance",
+  "entrypoint": "mcdr_plugin_template.entrance",
   "resources": [
     "lang",
     "LICENSE"
